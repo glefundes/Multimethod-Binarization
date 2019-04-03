@@ -33,7 +33,7 @@ Optional arguments are:
 
 You can find an example using all of them on the [demo notebook included in this repo](https://github.com/glefundes/Multimethod-Binarization/blob/master/Demo.ipynb).
 
-This function returns a list containing one binary image for method described. The methods are defined as a list dictionary objects with the following format:
+This function returns a list containing one binary image for each method described. The methods are defined as a list dictionary objects with the following format:
 ```
     {
     'type' : Binarization method (string),
